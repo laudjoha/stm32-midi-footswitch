@@ -328,6 +328,10 @@
     [
       "10f1abec-6492-4519-b5c7-3b2d41dddba6",
       "MCU"
+    ],
+    [
+      "6a06584c-b10a-4d4c-9087-0958684308ab",
+      "MIDI"
     ]
   ],
   "text_variables": {}
